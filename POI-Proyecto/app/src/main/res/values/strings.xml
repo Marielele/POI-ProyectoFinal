@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">GroupnChat</string>
+    <string name="register">Registrarse</string>
+    <string name="sin_cuenta">¿No tienes cuenta?</string>
+    <string name="iniciar_sesion">Iniciar Sesión</string>
+    <string name="email">Email</string>
+    <string name="contra">Contraseña</string>
+    <string name="nombre_usuario">Nombre de usuario</string>
+    <string name="carrera">Carrera</string>
+    <string name="mensajes">Mensajes</string>
+    <string name="grupos">Grupos</string>
+    <string name="tareas">Tareas</string>
+    <string name="archivos">Archivos</string>
+    <string name="perfil">Perfil</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Inicio</string>
+    <string name="name_chat_group">Nombre chat grupal</string>
+    <string name="crear">Crear</string>
+    <string name="entrar">Entrar</string>
+    <string name="name_new_group">Nombre para nuevo grupo</string>
+    <string name="publicaciones">Publicaciones</string>
+    <string name="subgrupos">Subgrupos</string>
+    <string name="Titulo">Titulo</string>
+    <string name="texto">Texto</string>
+    <string name="imagen">Imagen</string>
+    <string name="nueva_publi">Nueva publicacion</string>
+    <string name="nuevo_sub">Nuevo subgrupo</string>
+    <string name="publish">Publicar</string>
+    <string name="download">Descargar</string>
+    <string name="no_system">Esta publicación no tiene archivos a descargar</string>
+    <string name="nombre_subgrupo">Nombre de subgrupo</string>
+    <string name="integrantes">Integrantes</string>
+</resources>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "995564065314",
+    "firebase_url": "https://groupnchatapp-default-rtdb.firebaseio.com",
+    "project_id": "groupnchatapp",
+    "storage_bucket": "groupnchatapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995564065314:android:da9d1d72c08a2bb03b707b",
+        "android_client_info": {
+          "package_name": "com.carlele.groupnchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "995564065314-lc8mm9vf2vrgpeu04tt6rln8vqe05n8b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2EQ4Ndki6ssHXxyIJZQDrpe9dfhyEMIY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "995564065314-lc8mm9vf2vrgpeu04tt6rln8vqe05n8b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

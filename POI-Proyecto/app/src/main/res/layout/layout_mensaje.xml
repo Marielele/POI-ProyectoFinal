@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="10dp">
+
+    <LinearLayout
+        android:id="@+id/caja_mensaje"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:background="@drawable/burbuja"
+        android:padding="10dp">
+
+        <TextView
+            android:id="@+id/tv_contenido"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="16sp"
+            tools:text="Lorem ipsum dolor sit amet" />
+
+        <ImageView
+            android:id="@+id/img_mensaje"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:srcCompat="@tools:sample/avatars"
+            android:visibility="gone"/>
+
+        <TextView
+            android:id="@+id/tv_file"
+            android:layout_marginTop="5dp"
+            android:drawableLeft="@drawable/ic_baseline_attach_file_24"
+            android:textSize="16sp"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:visibility="gone"/>
+
+        <TextView
+            android:id="@+id/tv_msg_time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:text="21:10"
+            android:layout_marginTop="5dp"
+            android:layout_gravity="end"
+            android:textSize="10sp"/>
+
+    </LinearLayout>
+
+</FrameLayout>
